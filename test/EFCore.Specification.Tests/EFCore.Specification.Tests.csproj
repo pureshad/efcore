@@ -23,6 +23,7 @@
   <ItemGroup>
     <PackageReference Include="NetTopologySuite" Version="$(NetTopologySuiteVersion)" />
     <PackageReference Include="xunit" Version="$(XUnitVersion)" />
+    <PackageReference Include="Newtonsoft.Json" Version="$(NewtonsoftJsonVersion)" />
   </ItemGroup>
 
 </Project>
